@@ -1,0 +1,519 @@
+body{
+    background-image: url(../img/2e08617f3f0e57bc5b0343e37b56d7bc.jpg);
+    background-position: center;
+}
+.titulo{
+    width: 40%;
+    height: 180px;
+    margin-top: 3%;
+    margin-left: 28%;
+    background-image: url(../img/nike-slogan.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    box-shadow: 7px 7px 7px white;
+}
+#menu ul li{
+    display: block;
+    float: left;
+    border-right: 1px solid #cccccc;
+}
+#menu ul li a{
+    display: block;
+    padding: 10px;
+    color: rgba(175, 175, 233, 0.733);
+}
+#menu ul li:hover{
+    background:rgba(66, 27, 27, 0.486);
+}
+#menu ul li:hover a{
+    color: white;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+.card1{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/AdidasTerrex.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 116% 77%;
+    background-position-y: -54%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card1 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card2{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/botaAF1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 110% 77%;
+    background-position-y: -28%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card2 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card3{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/Nike2050.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 116% 77%;
+    background-position-y: -49%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card3 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card4{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/Reebok125.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 105% 77%;
+    background-position-y: -61%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card4 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card5{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/JordanFirma.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 116% 77%;
+    background-position-y: -32%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card5 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card6{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/NikeShield.png);
+  
+    background-repeat: no-repeat;
+    background-size: 115% 77%;
+    background-position-y: -62%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card6 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card7{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/TommyHilfiger.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 110% 77%;
+    background-position-y: -18%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card7 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card8{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/NikeReactColor´s.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 118% 77%;
+    background-position-y: -60%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card8 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card9{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/Reebok0225.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 116% 77%;
+    background-position-y: -26%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card9 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card10{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/NikeAF1KidsLed.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 116% 77%;
+    background-position-y: -84%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card10 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card11{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/Jordan115.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 110% 77%;
+    background-position-y: -56%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card11 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card12{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/nike1002vino.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 95% 77%;
+    background-position-y: -57%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card12 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card13{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/under.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 70%;
+    background-position-y: -44%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.card13 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card14{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/NikeAirMaxColor´s.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 116% 77%;
+    background-position-y: -56%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card14 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card15{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/Nike1002Negro.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 77%;
+    background-position-y: 2%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card15 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+#footer{
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    text-align: center;
+    background-color: black;
+    color: rgb(235, 234, 241);
+
+}
+#footer iframe{
+    width: 30%;
+    height: 10%;
+    margin-top: 7%;
+    margin-left: -90%;
+    border-radius: 5px;
+    border: 5px solid white;
+    box-shadow: 0px 0px 5px gray;
+}
+#footer h1{
+    display: block;
+    background: url("../img/pxgray.png"), white;
+    width: 30%;
+    height: 50px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    line-height: 55px;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.ubicacion h1{
+    float: left;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.ubicacion p{
+    margin-left: -51%;
+}
+.contacto h1{
+    float: left;
+    margin-left: 53%;
+    margin-top: -19%;
+}
+.autor h1{
+    float: left;
+    margin-left: 53%;
+    margin-top: -8%;
+}
+.autor p{
+    float: left;
+    margin-left: 54%;
+    margin-top: -3%;
+    font-size: 100%;
+}
+.container-redes{
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container-redes img{
+    width: 60px;
+    padding: 4px;
+    background: rgba(0,0,0,0.0);
+    cursor: pointer;
+    border-radius: 100%;
+    transition: all 300ms;
+}
+.container-redes a:hover img{
+    background: rgba(233, 214, 214, 0.698);
+}
+.whatsapp{
+    position: absolute;
+    float: left;
+    margin-left: 61%;
+    margin-top: -22%;
+}
+.messenger{
+    position: absolute;
+    float: left;
+    margin-left: 69%;
+    margin-top: -22%;
+}
+.statcounter{
+    color: black;
+}
