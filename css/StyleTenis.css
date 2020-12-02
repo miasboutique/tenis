@@ -40,8 +40,8 @@ body{
     background-image: url(../img/AdidasTerrex.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 116% 77%;
-    background-position-y: -54%;
+    background-size: 100% 57%;
+    background-position-y: 0%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -67,8 +67,8 @@ body{
     background-image: url(../img/botaAF1.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 110% 77%;
-    background-position-y: -28%;
+    background-size: 100% 71%;
+    background-position-y: -15%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -93,8 +93,8 @@ body{
     background-image: url(../img/Nike2050.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 116% 77%;
-    background-position-y: -49%;
+    background-size: 100% 68%;
+background-position-y: -24%;;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -119,8 +119,8 @@ body{
     background-image: url(../img/Reebok125.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 105% 77%;
-    background-position-y: -61%;
+    background-size: 100% 58%;
+background-position-y: -2%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -146,8 +146,8 @@ body{
     background-image: url(../img/JordanFirma.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 116% 77%;
-    background-position-y: -32%;
+    background-size: 100% 59%;
+    background-position-y: 7%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -172,8 +172,8 @@ body{
     background-image: url(../img/NikeShield.png);
   
     background-repeat: no-repeat;
-    background-size: 115% 77%;
-    background-position-y: -62%;
+    background-size: 115% 57%;
+    background-position-y: 0%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -225,8 +225,8 @@ body{
     background-image: url(../img/NikeReactColor´s.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 118% 77%;
-    background-position-y: -60%;
+    background-size: 113% 55%;
+    background-position-y: 13%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -251,8 +251,8 @@ body{
     background-image: url(../img/Reebok0225.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 116% 77%;
-    background-position-y: -26%;
+    background-size: 100% 65%;
+background-position-y: 14%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -277,8 +277,8 @@ body{
     background-image: url(../img/NikeAF1KidsLed.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 116% 77%;
-    background-position-y: -84%;
+    background-size: 85% 55%;
+    background-position-y: 9%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -304,8 +304,8 @@ body{
     background-image: url(../img/Jordan115.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 110% 77%;
-    background-position-y: -24%;
+    background-size: 100% 62%;
+    background-position-y: -1%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -327,11 +327,11 @@ body{
     float: left;
     width: 27%;
     height: 380px;
-    background-image: url(../img/nike1002vino.png);
+    background-image: url(../img/LouisVuitton.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 95% 77%;
-    background-position-y: -57%;
+    background-size: 87% 63%;
+    background-position-y: 4%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -356,8 +356,8 @@ body{
     background-image: url(../img/under.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 70%;
-    background-position-y: -29%;
+    background-size: 94% 50%;
+    background-position-y: 10%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -383,8 +383,8 @@ body{
     background-image: url(../img/NikeAirMaxColor´s.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 116% 77%;
-    background-position-y: -39%;
+    background-size: 100% 69%;
+    background-position-y: -11%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -406,11 +406,11 @@ body{
     float: left;
     width: 27%;
     height: 380px;
-    background-image: url(../img/Nike1002Negro.png);
+    background-image: url(../img/Dolcce&Gabbanaa.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 77%;
-    background-position-y: 2%;
+    background-size: 88% 56%;
+    background-position-y: 19%;
     overflow: hidden;
     margin: 22px;
     margin-top: 100px;
@@ -421,6 +421,136 @@ body{
     margin-top: 67%;
     width: 95%;
     height: 88px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card16{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/K-Swiss.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position-y: 16%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card16 p{
+    color:white;
+    background-color:  black;
+    margin-top: 67%;
+    width: 95%;
+    height: 89px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card17{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/NikeKidsLedRojo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 83% 135%;
+    background-position-y: 110%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card17 p{
+    color: white;
+background-color: black;
+margin-top: 67%;
+width: 95%;
+height: 89px;
+text-align: center;
+font-size: 17px;
+font-family: "BebasNeue";
+letter-spacing: 2px;
+padding: 6px;
+box-shadow: 2px 2px 4px white;
+}
+.card18{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/NikeKidsLedNegro1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 87% 123%;
+    background-position-y: 116%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card18 p{
+    color: white;
+    background-color: black;
+    margin-top: 67%;
+    width: 95%;
+    height: 89px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card19{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/TommyAzul.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 56%;
+background-position-y: -14%;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card19 p{
+    color: white;
+    background-color: black;
+    margin-top: 67%;
+    width: 95%;
+    height: 89px;
+    text-align: center;
+    font-size: 17px;
+    font-family: "BebasNeue";
+    letter-spacing: 2px;
+    padding: 6px;
+    box-shadow: 2px 2px 4px white;
+}
+.card20{
+    float: left;
+    width: 27%;
+    height: 380px;
+    background-image: url(../img/TommyBlanco.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 80%;
+background-position-y: -48%;;
+    overflow: hidden;
+    margin: 22px;
+    margin-top: 100px;
+}
+.card20 p{
+    color: white;
+    background-color: black;
+    margin-top: 67%;
+    width: 95%;
+    height: 89px;
     text-align: center;
     font-size: 17px;
     font-family: "BebasNeue";
