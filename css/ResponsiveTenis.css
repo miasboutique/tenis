@@ -1165,7 +1165,7 @@
         margin-top: 19%;
     }
     .whatsapp, .messenger{
-        margin-top: 11%;
+        margin-top: 21%;
     }
 }
 @media (max-width:786px){
@@ -1356,7 +1356,7 @@
 }
 @media (max-width:768px){
     .whatsapp, .messenger {
-        margin-top: 12%;
+        margin-top: 24%;
     }
     .contador2{
         margin-top: 20%;
@@ -1463,10 +1463,10 @@
 }
 @media (max-width:640px){
     .contador2{
-        margin-left: 46%;
+        margin-left: 27%;
     }
     .whatsapp, .messenger{
-        margin-top: 13%;
+        margin-top: 26%;
     }
 }
 @media (max-width:638px){
@@ -1590,7 +1590,7 @@
         font-size: 100% !important;
     }
     .whatsapp, .messenger {
-        margin-top: 14%;
+        margin-top: 27%;
     }
     .contador2{
         margin-top: 23%;
@@ -1949,7 +1949,7 @@
         margin-left: 0%;
     }
     .whatsapp, .messenger {
-        margin-top: 16%;
+        margin-top: 33%;
     }
     .contador2{
         margin-top: 27%;
@@ -2074,7 +2074,7 @@
         margin-top: -3%;
     }
     .whatsapp, .messenger {
-        margin-top: 17%;
+        margin-top: 34%;
     }
     .contador2 {
         margin-top: 27%;
@@ -2124,15 +2124,15 @@
         margin-left: 42%;
     }
     .whatsapp, .messenger {
-        margin-top: 18%;
+        margin-top: 36%;
     }
     .autor p{
         margin-left: 20%;
     }
 }
-@media (max-width:411px){
+@media (max-width:412px){
     .whatsapp, .messenger {
-        margin-top: 18%;
+        margin-top: 36%;
     }
     .contador2{
         margin-top: 29%;
@@ -2166,7 +2166,7 @@
 }
 @media (max-width:384px){
     .whatsapp, .messenger {
-        margin-top: 19.5%;
+        margin-top: 38.5%;
     }
     .contador2{
         margin-top: 31%;
@@ -2181,7 +2181,7 @@
 }
 @media (max-width:375px){
     .whatsapp, .messenger {
-        margin-top: 19.5%;
+        margin-top: 38.5%;
     }
     .contador2{
         margin-top: 32%;
@@ -2224,7 +2224,7 @@
 }
 @media (max-width:360px){   
     .whatsapp, .messenger {
-        margin-top: 22%;
+        margin-top: 45%;
     }
     .contador2{
         margin-top: 36%;
@@ -2625,7 +2625,7 @@
         margin-left: 3%;
     }
     .whatsapp, .messenger {
-        margin-top: 24%;
+        margin-top: 49%;
     }
     .contador2{
         margin-top: 39%;
@@ -2963,6 +2963,11 @@
         margin-top: 54%;
     }
 }
+@media (max-width:304px){
+    #menu p{
+        height: 24%;
+    }
+}
 @media (max-width:298px){
     .card1{
         height: 204px;
@@ -3223,7 +3228,7 @@
         margin-top: 7%;
     }
     .whatsapp, .messenger {
-        margin-top: 28% !important;
+        margin-top: 57% !important;
     }
     .contador2{
         margin-top: 44% !important;
