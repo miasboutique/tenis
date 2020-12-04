@@ -2452,6 +2452,7 @@
     #menu p{
         width: 93%;
         margin-top: 64% !important;
+        font-size: 48%;
     }
     .card1{
         height: 204px;
@@ -2963,9 +2964,15 @@
         margin-top: 54%;
     }
 }
+@media (max-width:305px){
+    #menu p{
+        font-size: 47%;
+    }
+}
 @media (max-width:304px){
     #menu p{
         height: 24%;
+        font-size: 44%;
     }
 }
 @media (max-width:298px){
@@ -3141,11 +3148,13 @@
     }
     #menu p{
         height: 22%;
+        font-size: 43%;
     }
 }
-@media (max-width:280px){
+@media (max-width:280px){ 
     #menu p{
         margin-top: 75% !important;
+        font-size: 42%;
     }
     .card1{
         height: 204px;
