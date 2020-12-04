@@ -81,6 +81,29 @@
         font-size: 90%;
         height: 17%;
         margin-top: 73%;
+    }.card16 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 73%;
+    }.card17 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 73%;
+    }
+    .card18 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 73%;
+    }
+    .card19 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 73%;
+    }
+    .card20 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 73%;
     }
     .autor p{
         margin-left: 54%;
@@ -185,6 +208,31 @@
         margin-top: 88%;
     }
     .card15 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 88%;
+    }
+    .card16 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 88%;
+    }
+    .card17 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 88%;
+    }
+    .card18 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 88%;
+    }
+    .card19 p{
+        font-size: 90%;
+        height: 17%;
+        margin-top: 88%;
+    }
+    .card20 p{
         font-size: 90%;
         height: 17%;
         margin-top: 88%;
@@ -343,6 +391,46 @@
         height: 65px;
         font-size: 14px;
     }
+    .card16{
+        height: 339px;
+    }
+    .card16 p{
+        margin-top: 261px;
+        height: 65px;
+        font-size: 14px;
+    }
+    .card17{
+        height: 339px;
+    }
+    .card17 p{
+        margin-top: 261px;
+        height: 65px;
+        font-size: 14px;
+    }
+    .card18{
+        height: 339px;
+    }
+    .card18 p{
+        margin-top: 261px;
+        height: 65px;
+        font-size: 14px;
+    }
+    .card19{
+        height: 339px;
+    }
+    .card19 p{
+        margin-top: 210px;
+        height: 65px;
+        font-size: 14px;
+    }
+    .card20{
+        height: 339px;
+    }
+    .card20 p{
+        margin-top: 261px;
+        height: 65px;
+        font-size: 14px;
+    }
     #footer iframe{
         margin-top: 8%;
     }
@@ -417,6 +505,26 @@
         font-size: 80%;
         margin-top: 92%;
     }
+    .card16 p{
+        font-size: 80%;
+        margin-top: 92%;
+    }
+    .card17 p{
+        font-size: 80%;
+        margin-top: 92%;
+    }
+    .card18 p{
+        font-size: 80%;
+        margin-top: 92%;
+    }
+    .card19 p{
+        font-size: 80%;
+        margin-top: 84%;
+    }
+    .card20 p{
+        font-size: 80%;
+        margin-top: 92%;
+    }
 }
 @media (max-width:978px){
     .card1 p{
@@ -462,6 +570,21 @@
         width: 94%;
     }
     .card15 p{
+        width: 94%;
+    }
+    .card16 p{
+        width: 94%;
+    }
+    .card17 p{
+        width: 94%;
+    }
+    .card18 p{
+        width: 94%;
+    }
+    .card19 p{
+        width: 94%;
+    }
+    .card20 p{
         width: 94%;
     }
     .autor p{
@@ -529,6 +652,26 @@
         font-size: 70%;
         margin-top: 92%;
     }
+    .card16 p{
+        font-size: 70%;
+        margin-top: 92%;
+    }
+    .card17 p{
+        font-size: 70%;
+        margin-top: 92%;
+    }
+    .card18 p{
+        font-size: 70%;
+        margin-top: 92%;
+    }
+    .card19 p{
+        font-size: 70%;
+        margin-top: 92%;
+    }
+    .card20 p{
+        font-size: 70%;
+        margin-top: 92%;
+    }
 }
 @media (max-width:950px){
     .whatsapp, .messenger {
@@ -577,6 +720,21 @@
         width: 94%;
     }
     .card15 p{
+        width: 94%;
+    }
+    .card16 p{
+        width: 94%;
+    }
+    .card17 p{
+        width: 94%;
+    }
+    .card18 p{
+        width: 94%;
+    }
+    .card19 p{
+        width: 94%;
+    }
+    .card20 p{
         width: 94%;
     }
     .titulo{
@@ -679,6 +837,31 @@
         margin-top: 92%;
         width: 94%;
     }
+    .card16 p{
+        font-size: 70%;
+        margin-top: 92%;
+        width: 94%;
+    }
+    .card17 p{
+        font-size: 70%;
+        margin-top: 92%;
+        width: 94%;
+    }
+    .card18 p{
+        font-size: 70%;
+        margin-top: 92%;
+        width: 94%;
+    }
+    .card19 p{
+        font-size: 70%;
+        margin-top: 92%;
+        width: 94%;
+    }
+    .card20 p{
+        font-size: 70%;
+        margin-top: 92%;
+        width: 94%;
+    }
 }
 @media (max-width:910px){
     .titulo{
@@ -697,6 +880,12 @@
         margin-left: 5%;
     }
     .card13{
+        margin-left: 5%;
+    }
+    .card16{
+        margin-left: 5%;
+    }
+    .card19{
         margin-left: 5%;
     }
 
@@ -792,6 +981,40 @@
         margin-left: 8%;
         height: 316px;
     }
+    .card16{
+        width: 35%;
+        margin-top: 7%;
+        margin-left: 8%;
+        height: 316px;
+        background-position-y: 17%;
+    }
+    .card17{
+        width: 35%;
+        margin-top: 7%;
+        margin-left: 8%;
+        height: 316px;
+        background-position-y: 72%;
+    }
+    .card18{
+        width: 35%;
+        margin-top: 7%;
+        margin-left: 8%;
+        height: 316px;
+        background-position-y: 57%;
+    }
+    .card19{
+        width: 35%;
+        margin-top: 7%;
+        margin-left: 8%;
+        height: 316px;
+        background-position-y: 19%;
+    }
+    .card20{
+        width: 35%;
+        margin-top: 7%;
+        margin-left: 8%;
+        height: 316px;
+    }
     .card1 p{
         font-size: 70%;
         margin-top: 77%;
@@ -849,6 +1072,26 @@
         margin-top: 77%;
     }
     .card15 p{
+        font-size: 70%;
+        margin-top: 77%;
+    }
+    .card16 p{
+        font-size: 70%;
+        margin-top: 77%;
+    }
+    .card17 p{
+        font-size: 70%;
+        margin-top: 77%;
+    }
+    .card18 p{
+        font-size: 70%;
+        margin-top: 77%;
+    }
+    .card19 p{
+        font-size: 70%;
+        margin-top: 77%;
+    }
+    .card20 p{
         font-size: 70%;
         margin-top: 77%;
     }
@@ -1064,6 +1307,45 @@
         margin-top: 78%;
         font-size: 11px;
     }
+    .card16{
+        height: 290px;
+        margin-left: 63px;
+    }
+    .card16 p{
+        margin-top: 78%;
+        font-size: 11px;
+    }
+    .card17{
+        height: 290px;
+        margin-left: 63px;
+    }
+    .card17 p{
+        margin-top: 78%;
+        font-size: 11px;
+    }
+    .card18{
+        height: 290px;
+        margin-left: 63px;
+    }
+    .card18 p{
+        margin-top: 78%;
+        font-size: 11px;
+    }
+    .card19{
+        height: 290px;
+    }
+    .card19 p{
+        margin-top: 78%;
+        font-size: 11px;
+    }
+    .card20{
+        height: 290px;
+        margin-left: 8%;
+    }
+    .card20 p{
+        margin-top: 78%;
+        font-size: 11px;
+    }
     #footer{
         font-size: 13px;
         height: 546px;
@@ -1150,6 +1432,21 @@
     .card15 p{
         margin-top: 80% !important;
     }
+    .card16 p{
+        margin-top: 80% !important;
+    }
+    .card17 p{
+        margin-top: 80% !important;
+    }
+    .card18 p{
+        margin-top: 80% !important;
+    }
+    .card19 p{
+        margin-top: 80% !important;
+    }
+    .card20 p{
+        margin-top: 80% !important;
+    }
     #menu p{
         font-size: 66%;
     }
@@ -1226,6 +1523,21 @@
         font-size: 9px;
     }
     .card15 p{
+        font-size: 9px;
+    }
+    .card16 p{
+        font-size: 9px;
+    }
+    .card17 p{
+        font-size: 9px;
+    }
+    .card18 p{
+        font-size: 9px;
+    }
+    .card19 p{
+        font-size: 9px;
+    }
+    .card20 p{
         font-size: 9px;
     }
 }
@@ -1321,59 +1633,102 @@
     .card1{
         width: 60%;
         margin-left: 18%;
+        background-size: 100% 71%;
     }
     .card2{
         width: 60%;
         margin-left: 18%;
+        background-size: 100% 89%;
     }
     .card3{
         width: 60%;
         margin-left: 18%;
+        background-size: 100% 82%;
     }.card4{
         width: 60%;
         margin-left: 18%;
+        background-size: 100% 71%;
     }
     .card5{
         width: 60%;
         margin-left: 18%;
+        background-size: 100% 82%;
     }
     .card6{
         width: 60%;
         margin-left: 18%;
+        background-size: 107% 71%;
     }
     .card7{
         width: 60%;
         margin-left: 18%;
+        background-size: 94% 95%;
     }
     .card8{
         width: 60%;
         margin-left: 18%;
+        background-size: 97% 72%;
     }
     .card9{
         width: 60%;
         margin-left: 18%;
+        background-size: 97% 83%;
     }
     .card10{
         width: 60%;
         margin-left: 18%;
+        background-size: 85% 75%;
     }
     .card11{
         width: 60%;
         margin-left: 18%;
+        background-size: 105% 78%;
     }
     .card12{
         width: 60%;
         margin-left: 18%;
+        background-size: 90% 78%;
     }
     .card13{
         width: 60%;
         margin-left: 18%;
+        background-size: 94% 68%;
     }
     .card14{
         width: 60%;
         margin-left: 18%;
+        background-size: 100% 84%;
     }
     .card15{
+        width: 60%;
+        margin-left: 18%;
+        background-size: 87% 75%;
+    }
+    .card16{
+        width: 60%;
+        margin-left: 18%;
+        background-size: 88% 64%;
+    }
+    .card17{
+        width: 60%;
+        margin-left: 18%;
+        background-size: 83% 160%;
+        margin-top: 0%;
+        background-position-y: 45%;
+    }
+    .card18{
+        width: 60%;
+        margin-left: 18%;
+        background-size: 85% 142%;
+        background-position-y: 28%;
+        margin-top: 1%
+    }
+    .card19{
+        width: 60%;
+        margin-left: 18%;
+        background-size: 92% 71%;
+    }
+    .card20{
         width: 60%;
         margin-left: 18%;
     }
@@ -1422,11 +1777,86 @@
     .card15 p{
         font-size: 11px;
     }
+    .card16 p{
+        font-size: 11px;
+    }
+    .card17 p{
+        font-size: 11px;
+    }
+    .card18 p{
+        font-size: 11px;
+    }
+    .card19 p{
+        font-size: 11px;
+    }
+    .card20 p{
+        font-size: 11px;
+    }
     #footer{
         font-size: 12px;
     }
 }
 @media (max-width:548px){
+    .card1{
+        background-position-y: 0% !important;
+    }
+    .card2{
+        background-position-y: -51%;
+    }
+    .card3{
+        background-position-y: -40%;
+    }
+    .card4{
+        background-position-y: -16%;
+    }
+    .card5{
+        background-position-y: -40%;
+    }
+    .card6{
+        background-position-y: -22%;
+    }
+    .card7{
+        background-position-y: -152%;
+    }
+    .card8{
+        background-position-y: -24%;
+    }
+    .card9{
+        background-position-y: -40%;
+    }
+    .card10{
+        background-position-y: -40%;
+    }
+    .card11{
+        background-position-y: -40%;
+    }
+    .card12{
+        background-position-y: -40%;
+    }
+    .card13{
+        background-position-y: -40%;
+    }
+    .card14{
+        background-position-y: -62%;
+    }
+    .card15{
+        background-position-y: -24%;
+    }
+    .card16{
+        background-position-y: -7%;
+    }
+    .card17{
+        background-position-y: 66%;
+    }
+    .card18{
+        background-position-y: 48%;
+    }
+    .card19{
+        background-position-y: -19%;
+    }
+    .card20{
+        background-position-y: -40%;
+    }
     .container-redes img {
         width: 40px;
     }
@@ -1445,8 +1875,6 @@
     .autor p{
         margin-left: 31%;
     }
-}
-@media (max-width:510px){
     .whatsapp, .messenger{
         margin-top: 32%;
     }
@@ -1455,6 +1883,68 @@
     }
 }
 @media (max-width:480px){
+    .card1{
+        background-position-y: -16% !important;
+    }
+    .card2{
+        background-size: 87% 78%;
+        background-position-y: -14%;
+    }
+    .card3{
+        background-position-y: -88%;
+    }
+    .card4{
+        background-position-y: -32%;
+    }
+    .card5{
+        background-position-y: -79%;
+    }
+    .card6{
+        background-position-y: -52%;
+    }
+    .card7{
+        background-position-y: -358%;
+    }
+    .card8{
+        background-position-y: -53%;
+    }
+    .card9{
+        background-position-y: -87%;
+    }
+    .card10{
+        background-position-y: -80%;
+    }
+    .card11{
+        background-size: 100% 62%;
+        background-position-y: -1%;
+    }
+    .card12{
+        background-position-y: -55%;
+    }
+    .card13{
+        background-position-y: -40%;
+    }
+    .card14{
+        background-position-y: -99%;
+    }
+    .card15{
+        background-position-y: -36%;
+    }
+    .card16{
+        background-position-y: -22%;
+    }
+    .card17{
+        background-position-y: 77%;
+    }
+    .card18{
+        background-position-y: 67%;
+    }
+    .card19{
+        background-position-y: -35%;
+    }
+    .card20{
+        background-position-y: -40%;
+    }
     #menu{
         margin-left: 0%;
     }
@@ -1485,6 +1975,104 @@
     }
 }
 @media (max-width:450px){
+    .card1{
+        background-size: 92% 62%;
+        background-position-y: -16% !important;
+    }
+    .card2{
+        background-size: 82% 69%;
+        background-position-y: -12%;
+        margin-top: -3%;
+    }
+    .card3{
+        background-size: 94% 64%;
+        background-position-y: -14%;
+        margin-top: -3%;
+    }
+    .card4{
+        background-size: 87% 50%;
+        margin-top: -3%;
+        background-position-y: 8%;
+    }
+    .card5{
+        background-size: 90% 54%;
+        background-position-y: 3%;
+        margin-top: -3%;
+    }
+    .card6{
+        background-size: 94% 47%;
+        background-position-y: 11%;
+        margin-top: -3%;
+    }
+    .card7{
+        background-size: 90% 69%;
+        background-position-y: -9%;
+        margin-top: -3%;
+    }
+    .card8{
+        background-size: 92% 52%;
+        background-position-y: 0%;
+        margin-top: -3%;
+    }
+    .card9{
+        background-size: 90% 60%;
+        background-position-y: -6%;
+        margin-top: -3%;
+    }
+    .card10{
+        background-position-y: -9%;
+        background-size: 78% 56%;
+        margin-top: -3%;
+    }
+    .card11{
+        background-size: 90% 54%;
+        background-position-y: -1%;
+        margin-top: -3%;
+    }
+    .card12{
+        background-size: 79% 55%;
+        background-position-y: -5%;
+        margin-top: -3%;
+    }
+    .card13{
+        background-size: 82% 50%;
+        background-position-y: -5%;
+        margin-top: -3%;
+    }
+    .card14{
+        background-size: 96% 62%;
+        background-position-y: -10%;
+        margin-top: -3%;
+    }
+    .card15{
+        background-size: 85% 54%;
+        background-position-y: 6%;
+        margin-top: -3%;
+    }
+    .card16{
+        background-size: 89% 49%;
+        background-position-y: -1%;
+        margin-top: -3%;
+    }
+    .card17{
+        background-size: 82% 120% !important;
+        background-position-y: 137%;
+        margin-top: -3%;
+    }
+    .card18{
+        background-size: 82% 120% !important;
+        background-position-y: 114%;
+        margin-top: -3%;
+    }
+    .card19{
+        background-size: 94% 54%;
+        background-position-y: 4%;
+        margin-top: -3%;
+    }
+    .card20{
+        background-position-y: -40%;
+        margin-top: -3%;
+    }
     .whatsapp, .messenger {
         margin-top: 17%;
     }
@@ -1518,7 +2106,7 @@
     #menu p{
     font-size: 65%;
     height: 16%;
-    margin-top: 95% !important;
+    margin-top: 69% !important;
     }
 }
 @media (max-width:414px){
@@ -1573,7 +2161,7 @@
     #menu p{
         font-size: 55%;
         height: 16%;
-        margin-top: 99% !important;
+        margin-top: 76% !important;
     }
 }
 @media (max-width:384px){
@@ -1634,7 +2222,7 @@
         margin-left: 33%;
     }
 }
-@media (max-width:360px){
+@media (max-width:360px){   
     .whatsapp, .messenger {
         margin-top: 22%;
     }
@@ -1659,7 +2247,7 @@
     #menu p{
         font-size: 52%;
         height: 17%;
-        margin-top: 106% !important;
+        margin-top: 88% !important;
     }
     .whatsapp, .messenger{
         margin-top: 48%;
@@ -1750,6 +2338,26 @@
         height: 204px;
         margin-top: 7%;
     }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
     .card1 p{
         margin-top: 145px;
         font-size: 9px;
@@ -1810,10 +2418,30 @@
         margin-top: 145px;
         font-size: 9px;
     }
+    .card16 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card17 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card18 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card19 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card20 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
     #menu p{
         font-size: 48%;
         height: 20%;
-        margin-top: 77% !important;
+        margin-top: 65% !important;
     }
     .contador2{
         margin-top: 40%;
@@ -1826,64 +2454,164 @@
         margin-top: 64% !important;
     }
     .card1{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card2{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card3{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card4{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card5{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card6{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card7{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card8{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card9{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card10{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card11{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card12{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card13{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card14{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card15{
-        width: 74%;
-        margin-left: 12%;
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card1 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card2 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card3 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card4 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card5 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card6 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card7 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card8 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card9 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card10 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card11 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card12 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card13 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card14 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card15 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card16 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card17 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card18 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card19 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card20 p{
+        margin-top: 145px;
+        font-size: 9px;
     }
     #footer iframe{
         margin-top:22%;
@@ -1906,8 +2634,328 @@
     .autor p{
         margin-left: 12%;
     }
+    .card1{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card2{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card3{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card4{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card5{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card6{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card7{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card8{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card9{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card10{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card11{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card12{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card13{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card14{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card15{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card1 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card2 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card3 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card4 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card5 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card6 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card7 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card8 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card9 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card10 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card11 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card12 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card13 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card14 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card15 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card16 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card17 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card18 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card19 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card20 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
 }
 @media (max-width:310px){
+    .card1{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card2{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card3{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card4{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card5{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card6{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card7{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card8{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card9{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card10{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card11{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card12{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card13{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card14{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card15{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card1 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card2 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card3 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card4 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card5 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card6 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card7 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card8 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card9 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card10 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card11 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card12 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card13 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card14 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card15 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card16 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card17 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card18 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card19 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card20 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
     .autor h1 {
         margin-top: 15%;
     }
@@ -1915,16 +2963,167 @@
         margin-top: 54%;
     }
 }
-@media (max-width:280px){
-    .whatsapp, .messenger {
-        margin-top: 28% !important;
-    }
-    .contador2{
-        margin-top: 44% !important;
-        margin-left: 37% !important;
-    }
-}
 @media (max-width:298px){
+    .card1{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card2{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card3{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card4{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card5{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card6{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card7{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card8{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card9{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card10{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card11{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card12{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card13{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card14{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card15{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card1 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card2 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card3 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card4 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card5 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card6 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card7 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card8 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card9 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card10 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card11 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card12 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card13 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card14 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card15 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card16 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card17 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card18 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card19 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
+    .card20 p{
+        margin-top: 145px;
+        font-size: 9px;
+    }
     #footer iframe{
         margin-top: 23%;
     }
@@ -1935,16 +3134,100 @@
         margin-top: 43%;
         margin-left: 28%;
     }
+    #menu p{
+        height: 22%;
+    }
 }
 @media (max-width:280px){
+    #menu p{
+        margin-top: 75% !important;
+    }
+    .card1{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card2{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card3{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card4{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card5{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card6{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card7{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card8{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card9{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card10{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card11{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card12{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card13{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card14{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card15{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
     .whatsapp, .messenger {
-        margin-top: 60%;
+        margin-top: 28% !important;
     }
-    .whatsapp {
-        margin-left: -48%;
-    }
-    .autor p{
-        margin-left: 9%;
+    .contador2{
+        margin-top: 44% !important;
+        margin-left: 37% !important;
     }
 }
 @media (max-width:265px){
@@ -1966,67 +3249,192 @@
     }
 }
 @media (max-width:240px){
+    #menu p{
+        margin-top: 83% !important;
+    }
     .card1{
-        background-position-y: -78%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card2{
-        background-position-y: -23%;
-        margin-top: -9%;
-        height: 190px;
+        height: 204px;
+        margin-top: 7%;
     }
     .card3{
-        background-position-y: -68%;
-        margin-top: -6%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card4{
-        background-position-y: -84%;
-        margin-top: -3%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card5{
-        background-position-y: -67%;
-        margin-top: -6%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card6{
-        background-position-y: -78%;
-        height: 191px;
-        margin-top: -6%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card7{
-        background-position-y: -35%;
-        margin-top: -10%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card8{
-        background-position-y: -78%;
-        margin-top: -10%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card9{
-        background-position-y: -44%;
-        margin-top: -12%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card10{
-        background-position-y: -90%;
-        margin-top: -15%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card11{
-        background-position-y: -31%;
-        height: 160px;
-        margin-top: -9%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card12{
-        background-position-y: -83%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card13{
-        background-position-y: -42%;
-        height: 181px;
-        margin-top: -10%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card14{
-        background-position-y: -71%;
-        margin-top: 0%;
+        height: 204px;
+        margin-top: 7%;
     }
     .card15{
-        background-position-y: -16%;
-        margin-top: -10%;
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .ubicacion h1{
+        margin-top: 5%;
+    }
+    #footer iframe {
+        margin-top: 33%;
+    }
+    .whatsapp, .messenger{
+        margin-top: 32% !important;
+    }
+    #footer h1 {
+        font-size: 160%;
+    }
+    .autor p{
+        margin-left: 5%;
+    }
+    .contador2 {
+        margin-top: 50% !important;
+        margin-left: 37% !important;
+    }
+}
+@media (max-width:220px){
+    #menu p{
+        margin-top: 94% !important;
+    }
+    .card1{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card2{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card3{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card4{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card5{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card6{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card7{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card8{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card9{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card10{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card11{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card12{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card13{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card14{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card15{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card16{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card17{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card18{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card19{
+        height: 204px;
+        margin-top: 7%;
+    }
+    .card20{
+        height: 204px;
+        margin-top: 7%;
     }
     .ubicacion h1{
         margin-top: 5%;
