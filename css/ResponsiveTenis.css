@@ -2265,6 +2265,11 @@
         margin-left: 32%;
     }
 }
+@media (max-width:345px){
+    #menu p{
+        font-size: 50%;
+    }
+}
 @media (max-width:332px){
     #footer iframe{
         margin-top: 20%;
