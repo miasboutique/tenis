@@ -3180,10 +3180,15 @@
         font-size: 37% !important;
     }
 }
+@media (max-width:283px){
+    #menu p{
+        font-size: 5px !important;
+    }
+}
 @media (max-width:280px){ 
     #menu p{
         margin-top: 75% !important;
-        font-size: 42%;
+        font-size: 5px;
     }
     .card1{
         height: 204px;
@@ -3275,7 +3280,7 @@
 }
 @media (max-width:265px){
     #menu p{
-        font-size: 42%;
+        font-size: 5px;
     }
     #menu ul{
         margin-left: -19%;
@@ -3289,6 +3294,11 @@
     }
     .autor p{
         margin-left: 8%;
+    }
+}
+@media (max-width:259px){
+    #menu p{
+        font-size: 4px !important;
     }
 }
 @media (max-width:240px){
