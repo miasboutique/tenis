@@ -2796,7 +2796,7 @@
         font-size: 9px;
     }
 }
-@media (max-width:310px){
+@media (max-width:311px){
     .card1{
         height: 204px;
         margin-top: 7%;
@@ -2963,16 +2963,30 @@
     .whatsapp, .messenger{
         margin-top: 54%;
     }
+    #menu p{
+        font-size: 44% !important;
+    }
+}
+@media (max-width:307px){
+    #menu p{
+        font-size: 43% !important;
+    }
 }
 @media (max-width:305px){
     #menu p{
-        font-size: 47%;
+        font-size: 42%;
     }
 }
 @media (max-width:304px){
     #menu p{
         height: 24%;
-        font-size: 44%;
+        font-size: 41%;
+    }
+}
+@media (max-width:303px){
+    #menu p{
+        height: 24%;
+        font-size: 40% !important;
     }
 }
 @media (max-width:298px){
@@ -3148,7 +3162,22 @@
     }
     #menu p{
         height: 22%;
-        font-size: 43%;
+        font-size: 40%;
+    }
+}
+@media (max-width:292px){
+    #menu p{
+        font-size: 39% !important;
+    }
+}
+@media (max-width:288px){
+    #menu p{
+        font-size: 38% !important;
+    }
+}
+@media (max-width:284px){
+    #menu p{
+        font-size: 37% !important;
     }
 }
 @media (max-width:280px){ 
