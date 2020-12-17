@@ -33,6 +33,12 @@ body{
     float: none;
     clear: both;
 }
+.precio{
+    color: red;
+}
+.promocion{
+    color: rgb(204, 204, 118);
+}
 .card1{
     float: left;
     width: 27%;
